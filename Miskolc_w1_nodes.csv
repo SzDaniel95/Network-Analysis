@@ -1,0 +1,258 @@
+Id;Label;Weight
+1;Aba u.;2150
+2;Alfoldi u.;330
+3;almos u.;3050
+4;Also-Hamor;420
+5;Also-Majlath;5634
+6;Anna banya;800
+7;Aradi setany;800
+8;Arboretum;90
+9;arok u.;150
+10;Auchan, Pesti ut;250
+11;Avas varoskozpont;3890
+12;Avar u.;2150
+13;Avas kilato;5260
+14;Avasalja u.;514
+15;Babits Mihaly u.;1450
+16;Babonyi-berc;330
+17;Bacsinszky Andras u.;663
+18;Balassa u.;1780
+19;Balaton u.;2110
+20;Balazs Gyozo ter;9095
+21;Balazsdiak u.;150
+22;Banat u.;374
+23;Banyauzem;800
+24;Baratsag ter;1100
+25;Baross Gabor u.;1802
+26;Bartok Bela u.;550
+27;Battyany sor;1400
+28;Bedegvolgy;330
+29;Berekalja;450
+30;Berekkert;700
+31;Bertalan u.;1100
+32;Berzsenyi Daniel u.;1450
+33;Bodoteto;450
+34;Bolloalja;1100
+35;Bogancs u.;750
+36;Bolyai Farkas u.;1478
+37;Bornemissza u.;330
+38;Bolcs u.;4494
+39;Bulcsu u.;420
+40;Bulgarfold ;7744
+41;Buza ter;5423
+42;Buza ter / Zsolcai koz;6993
+43;Bukkszentlaszlo;150
+44;Bukkszentlaszlo also;150
+45;Bukkszentlaszlo elagazas;150
+46;Cementgyar;2263
+47;Csanyik-volgy;420
+48;Cserepes haz;800
+49;Csermoke;1400
+50;Csermoke-Felso;1400
+51;Csermokei ut;2250
+52;Csokonai Vitez Mihaly u.;330
+53;Dayka Gabor u.;210
+54;Damjanich u.;304
+55;Debreczeni Marton ter;1100
+56;Derkovits u.;2320
+57;Diosgyor varoskozpont;5634
+58;Diosgyori Gimn.;6644
+59;Diosgyori Korhaz;1400
+60;Diosgyori Ipari Park;1400
+61;Diosgyori var;240
+62;Doczy Jozsef u.;330
+63;Dozsa Gyorgy ut;2390
+64;Dozsa Gyorgy utca;550
+65;DVTK Stadin;4494
+66;Egyetem;1400
+67;Egyetemi kollegium;1550
+68;Egyetemvaros;1550
+69;Endrodi Sandor u.;240
+70;Eperjesi u.;550
+71;Eper u.;210
+72;Erdo sor;1100
+73;Erdo u.;210
+74;Erdogazdasag;800
+75;Erkel Ferenc u.;750
+76;Ernye ban u.;650
+77;Erzsebet ter;954
+78;Erzsebet kiralyne u.;813
+79;eszaki Iparterulet;504
+80;Farkas Antal u.;900
+81;Felso-Hamor;420
+82;Felso-Majlath;6024
+83;Felsozsolca;1100
+84;Felsozsolcai elagazas;1100
+85;Fonoda u.;1100
+86;Forrasvolgy u.;150
+87;Futo u.;900
+88;Garadna vasut;60
+89;Gero Janos u.;350
+90;Gomori pu.;1754
+91;Goromboly u.;663
+92;Gulya-kut;800
+93;Gyula u.;9095
+94;Hajos Alfred u.;5250
+95;Harsanyi u.;501
+96;Hatvanotosok u.;550
+97;Hejo-park;900
+98;Hejocsabai Gyogyszergyar;2713
+99;Hejocsabai varosresz.;2713
+100;Hengeresz u.;390
+101;Hideg sor;210
+102;Homokbanya;1100
+103;Hovirag u.;1320
+104;Hosok tere;3240
+105;Hosok tere (7);1100
+106;Hutohaz;504
+107;Ifjusag utja;5970
+108;Irinyi Jozsef u.;490
+109;Iskola ter;330
+110;Istvan-barlang;360
+111;Kando Kalman u.;954
+112;Karinthy u.;240
+113;Kassai u.;420
+114;Kassai u. (7);1100
+115;Karoly u.;9095
+116;Kazinczy alt. Isk.;1120
+117;Kazinczy Ferenc u.;540
+118;Kelet u.;700
+119;Keleti Iparterulet;504
+120;Keleti kapu;1100
+121;Kemeny Denes Uszoda;800
+122;Kenyergyar;954
+123;Kertekalja u.;550
+124;Kis-erenyo;1100
+125;Kiss Erno u.;954
+126;Komlosteto;390
+127;Komlosteto elagazas;510
+128;Kossuth Lajos u.;550
+129;Konyves Kalman u.;954
+130;Kozepgaradna;60
+131;Knezich Karoly u.;90
+132;Laczko-tanya;800
+133;Ladi furesztelep;1020
+134;Ladi u.;510
+135;LAEV (kisvasút) + LAEV;4944
+136;Lavotta u.;663
+137;Lehar u.;351
+138;Leszih Andor u.;5250
+139;Levay Jozsef u.;2913
+140;Levente vezer u.;3050
+141;Lillafured;360
+142;Lomb u.;1020
+143;Lorantffy Zsuzsanna u.;374
+144;Lyuko-volgy;800
+145;(Lyukobanya);160
+146;Magas-hegy;1400
+147;Magyar-tanya;800
+148;Majalis-park;1320
+149;Malom;700
+150;Malomszog u.;9215
+151;Marjalaki u.;330
+152;Martin Kertvaros kozpont;1450
+153;Mednyanszky u.;5250
+154;Megyei Korhaz;3470
+155;Mendikas;210
+156;Meszkobanya;150
+157;MIK;1100
+158;Mikes Kelemen u.;90
+159;Mohosto u.;1450
+160;Mora Ferenc u.;450
+161;MVSC Sportpalya;330
+162;Nagy-erenyo;1100
+163;Nagyvathy u.;954
+164;Napsugar otthon;3050
+165;Nepkert;7420
+166;Nimrod u.;150
+167;Nyarfa u.;510
+168;Olajkutato;700
+169;Olvasztar u.;510
+170;omassa;60
+171;Orvosi rendelo;330
+172;onkormanyzat;150
+173;ors u.;2150
+174;Palotaszallo;420
+175;Papirgyar;1320
+176;Pereces;1100
+177;Pesti u.;100
+178;Petnehazy u.;1913
+179;Petnehazy berhazak;5590
+180;Petofi ter;5020
+181;Pintes u.;150
+182;Pisztrangkelteto;60
+183;Punkosd-hegy;1100
+184;Repuloter;3974
+185;Repuloter mh.;504
+186;Ruzsinszolo;1400
+187;Sajo u.;1100
+188;Sajorajaro ut;504
+189;Sajoszigeti ut;504
+190;Salakbanya;150
+191;Salyi Istvan u.;2770
+192;Sello u.;150
+193;Selyemret;12299
+194;Soltesz-Nagy Kalman u. + Bajcsy-Zsilinszky ut;12788
+195;Suto Janos u.;900
+196;Suto-tanya;800
+197;Szabadsagharc u.;1120
+198;Szarka-hegy (6);1100
+199;Szarka-hegy (16);800
+200;Szeles u.;3650
+201;Szemere-kert;540
+202;Szent Anna ter;11455
+203;Szent Laszlo u.;180
+204;Szentgyorgy ut;5070
+205;Szervezet u.;374
+206;Szigligeti ter;1000
+207;Szinva u.;504
+208;Szinvapark / Centrum + Szinvapark + Centrum;16055
+209;Szirma;1450
+210;Szirma alt. Isk.;1450
+211;Szondi Gyorgy u.;1750
+212;Szovo u.;304
+213;SZTK Rendelo;5590
+214;Tampere varosresz;210
+215;Tancsics ter;900
+216;Tanulmanyi epulet;850
+217;Tapolca;800
+218;Tapolca parkolo;800
+219;Tapolcai elagazas;6383
+220;Tatardomb;1478
+221;Tegla u.;663
+222;Teleki u.;954
+223;Temeto;550
+224;Thokoly u.;9095
+225;Timarmalom u.;954
+226;Tinodi u.;330
+227;Tiszai pu.;13103
+228;Tokaji Ferenc u.;374
+229;Toldi u.;550
+230;Turistapark;800
+231;ujgyori foter;15643
+232;ujgyori piac;12298
+233;ujmassa-oskoho;60
+234;uteg u.;1754
+235;uveggyar;304
+236;Vagohid utca;504
+237;Vargahegy;1400
+238;Varoshaza ter;9095
+239;Vasgyar;8499
+240;Vasgyari Evangelikus templom;2354
+241;Vasgyari temeto;3898
+242;Vasgyari ut;1954
+243;Vasuti feluljaro;3670
+244;Vasuti sorompo;2110
+245;Velence u.;330
+246;Verseny u.;374
+247;Villanyrendor;12335
+248;Vizugyi Igazgatosag (8);504
+249;Vizugyi Igazgatosag;4727
+250;Vologda varosresz.;2600
+251;VOLaN;504
+252;Vorosmarty Mihaly u. + Szemere u.;4714
+253;Vorosmarty varosresz;2204
+254;Wesselenyi u.;650
+255;Zenta u.;4494
+256;Zoltan u.;2150
+257;Zsarnai telep;504

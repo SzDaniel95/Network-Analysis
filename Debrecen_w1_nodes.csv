@@ -1,0 +1,307 @@
+Id;Label;Weight
+1;35-os ut;1842
+2;9. kilometerko;180
+3;Acsadi ut;855
+4;Agrargazdasag;1842
+5;Agrartudomanyi Centrum;3113
+6;Alfoldi Nyomda;1491
+7;Alma u.;306
+8;Alsojozsai u.;795
+9;Aquaticum;1491
+10;ATEV;543
+11;Auchan aruhaz;60
+12;Auguszta;1295
+13;Autopiac;120
+14;achim Andras u.;251
+15;allatmenhely;543
+16;arpad ter;3041
+17;arpad Vezer alt. Isk. + Boszormenyi ut, villamos;5141
+18;Baksay Sandor u.;180
+19;Balaton u.;690
+20;Balashazy Janos Szki.;295
+21;Barackos u.;543
+22;Baratsag u.;279
+23;Baskir u.;300
+24;Bayk Andras u.;1020
+25;Badogos u.;690
+26;Balint pap u.;553
+27;Bank;543
+28;Bank, Iskola;543
+29;Bem ter + Bem ter, villamos + Egyetem sgt.;4069
+30;Benedek Elek ter;1611
+31;Bercsenyi u.;2215
+32;Berek u.;2215
+33;Besze Janos u. + Olah Gabor u.;120
+34;Bevasarlokozpont;120
+35;Bevasarlokozpontok;450
+36;Beke major;120
+37;Bekessy Bela u.;2728
+38;Biczokert u.;543
+39;Bihari u. + Sipos u.;1936
+40;Bolyai u. + DAB szekhaz + DAB szekhaz, villamos;4956
+41;Bondorhat u.;546
+42;Borzan Gaspar u.;2015
+43;Bolcs u.;300
+44;Branyiszko u.;1842
+45;Brassai Samuel Szki.;1148
+46;Budai Nagy Antal u.;1528
+47;Bulgar u.;720
+48;Csalogany u.;360
+49;Csarda u.;543
+50;Csemete u. + Csemete u., villamos;4896
+51;Csereerdo;171
+52;Cseresznye u.;1156
+53;Csigekert u.;300
+54;Csokonai Vitez Mihaly Gimnazium + Csokonai VMGimn, villamos;5089
+55;Csonkatorony u.;795
+56;Deak Ferenc u. + Szivarvany u.;546
+57;Debreceni Eromu + Hid u.;1661
+58;Debreceni itelotabla +Torvenyszek;4403
+59;Deli sor;785
+60;Deli sor 55.;785
+61;Derek u. (jegcsarnok) + Gyepusor;3022
+62;Diadal u.;320
+63;Dienes Laszlo Gimn.+Dienes Lgimn, villamos;4956
+64;Dioszegi ut;2033
+65;Doberdo u. + Doberdo u., villamos;4020
+66;Dobozi lakotelep;1148
+67;Dorottya u.;3022
+68;Doczy Jozsef u.;965
+69;Dozsa Gyorgy u. + Dozsa Gyorgy u., villamos;4896
+70;Egyetem + Egyetem, villamos;2501
+71;Egyetem ter;847
+72;Egyetemi sporttelep + Kartacs u. + Kartacs u., villamos;3097
+73;Elek u.;279
+74;Elek u. 147.;279
+75;Endre u.;435
+76;Eotvos u. + Honved (villamos);2982
+77;Epreskerti alt. Isk.;120
+78;Erdeszhaz;295
+79;Eross Lajos u. + Gyolcsos u.;1177
+80;epitok utja;930
+81;FAG;560
+82;Faloger;2571
+83;Fancsika;171
+84;Felsojozsa;546
+85;Felsojozsai u.;1137
+86;Fiakeres u.;1020
+87;Foldi Janos u.;1163
+88;Fonix Csarnok +Campus;2981
+89;Furedi ut + Furedi kapu + Domokos Lajos u. + Jeriko u.;3458
+90;Gazvezetek u.;630
+91;Gonczy Pal alt. Isk.;312
+92;Gorgey u.;2157
+93;Gyogyszergyar;953
+94;Hadhazi ut;120
+95;Hadhazi ut 92.;330
+96;Hadhazi ut, vizsgakozpont;270
+97;HAJDuKOMM;360
+98;Hajnal u. + Faraktar u.;4737
+99;Halap;171
+100;Halap, csarda;171
+101;Halap, utorhaz;171
+102;Hangyas u.;1842
+103;Harsona u.;270
+104;Harstein kertek;1592
+105;Hatar ut;610
+106;Hatar uti Ipari Park;270
+107;Hatvan u.;3274
+108;Harmashegy u.;693
+109;Hars u.;300
+110;Hazgyar u.;690
+111;Helykozi autobusz-allomas + Mechwart Andras Szki.;8053
+112;Hintos u.;180
+113;Hold u.;820
+114;Hollo Laszlo setany;3530
+115;Homok u.;120
+116;Honved Kozepiskola;240
+117;Honved u. (Bethlen u.);907
+118;Horgasztavak;543
+119;Hun u.;720
+120;Huszar Gal u.;435
+121;Inter Tan-Ker Zrt.;200
+122;Ipari Park, bejaro ut;560
+123;Ipari Park, szerviz ut;400
+124;Iranyi Daniel u.;1019
+125;Istvan ut + Kadosa u.;2340
+126;IT Services Hungary Kft.;792
+127;Janosi u.;553
+128;Jegcsarnok;1338
+129;Jozsakert u.;795
+130;Juhasz Geza u.;855
+131;Julia-telep;380
+132;Kalasz u.;180
+133;Kabar u.;948
+134;Kanalis u.;690
+135;Kandia u. + Kossuth u. + Klaipeda;3222
+136;Karacs Ferenc u.;300
+137;Kardos u.;120
+138;Kaskoto u.;306
+139;Kassai ut;2471
+140;Kadar dulo;180
+141;Kalvin ter, villamos* + Tanitokepzo Foiskola;8372
+142;Karoli Gaspar ter + Vendeg u. + Pesti u.;4029
+143;Karoli Gaspar u. + Vezer u.;792
+144;Karolyi Mihaly u., villamos;4314
+145;Kemeny Zsigmond u.;2471
+146;Kenezy Gyula Korhaz;930
+147;Kerekestelepi furdo;300
+148;Keresszegi u.;553
+149;Keresztesi u.;1163
+150;Kertvaros;3068
+151;Keknyelu u.;171
+152;Keresz u.;693
+153;Kincseshegy u.;553
+154;Kinizsi Nyomda;582
+155;Kisbanya utca;543
+156;Kishatar u.;480
+157;Kishegyesi ut + Sesztina u.;3999
+158;Kismacs;120
+159;Kismacs, lakotelep;150
+160;Klauzal Gabor u.;251
+161;Klinikak + Klinikak, villamos;3123
+162;Kolonia u.;1298
+163;Komaromi Csipkes Gyorgy ter + Hetvezer u.;2649
+164;Kondorosi hid;543
+165;Kondoroskert u.;171
+166;Konzervgyar;948
+167;Kopja u.;828
+168;Kossuth ter*;7296
+169;Kolcsey Kozpont (Bethlen u. + Hunyadi u) + Jokai u. + Hunyadi u. + Hunyadi Janos u., villamos;8102
+170;Kontosgat sor;330
+171;Koztemeto, deli kapu;879
+172;Koztemeto, fokapu;1557
+173;Kurucz u.;435
+174;Kurtos u.;1163
+175;Lahner u.;1019
+176;Lahner u. 53. + Schweidel Jozsef u.;1019
+177;Laktanya u.;3041
+178;Latokepi Csarda;120
+179;Lazar u.;251
+180;Leganyi u. + Ohat u.;673
+181;Leiningen u. + Epreskert u.;1430
+182;Lomnicz u.;251
+183;Lovas u.;613
+184;Loverseny u. + urretje u.;1842
+185;Loszhat;180
+186;M35-os autopalya;180
+187;Madach ter;907
+188;Malna u.;1156
+189;Matyas kiraly u. + Zrinyi u.;1093
+190;MaV-rendelo;2763
+191;Mentoallomas + Szoboszloi uti alt. Isk.;2531
+192;Mester u.;1622
+193;Moha u.;582
+194;Munkacsy Mihaly u.;998
+195;Muanyaggyar;270
+196;Nagy Lajos kiraly ter;847
+197;Nagyallomas + Nagyallomas, villamos*;13748
+198;Nagycsere, fatelep;171
+199;Nagycsere, iskola;171
+200;Nagycsere, orvosi rendelo;171
+201;Nagyerdei korut + Medgyessi setany;2982
+202;Nagymacs;180
+203;Nagymacs, Kastelykert u.;180
+204;Nagymacs, vasutallomas;120
+205;Nagyszentgyorgy u.;412
+206;Napraforgo u.;180
+207;Nador u. + Nador u., villamos + Malompark;4905
+208;Nyek u.;792
+209;Nyil u.;120
+210;Nyiregyhazi u.;120
+211;Nyugati Ipari Park;420
+212;Nyugati Ipari Park, szervizut I.;210
+213;Nyugati Ipari Park, szervizut II.;210
+214;Ondod;180
+215;Orgona u.;180
+216;ovoda u.;120
+217;Ozman u.;300
+218;otemeto u.;1701
+219;Pac;828
+220;Pajtas u.;306
+221;Pallag;295
+222;Pallagi ut + Moricz Zsigmond ut;1740
+223;Pafrany u. + Folias u.;543
+224;Pal u.;312
+225;Petofi Sandor alt. Isk.;907
+226;Petofi ter;300
+227;Peterfia dulo;120
+228;Pohl Ferenc u.;1156
+229;Posa u.;1460
+230;Puttony u.;306
+231;Rakoczi u. + Csapo u. + Burgundia u.;2916
+232;Raktar u.;785
+233;Regionalis Kepzo Kozpont;1393
+234;repuloter;300
+235;Ribizli u.;1156
+236;Rigo u.;1636
+237;Rozsavolgy u.;267
+238;Rozsavolgy u. 133.;267
+239;Rozsavolgy u. 175.;267
+240;Rozsas Csarda;1653
+241;Ruyter u.;222
+242;Salakmotorpalya;690
+243;Salakos bekotout;360
+244;Samsoni ut;553
+245;Sarga dulo 23.;120
+246;Sarga dulo 33.;120
+247;Sarga dulo 67.;120
+248;Sarvari Pal u.;3530
+249;Segner ter + Hatvan u. 57;8207
+250;Sillye Gabor u.;279
+251;Skalnitzky Antal u.;855
+252;Somlyai u.;360
+253;Solyom u.;1273
+254;Sportkollegium;303
+255;Sportuszoda;330
+256;Szabo Lorinc u.;300
+257;Szalok u. + Tizedes u.;1528
+258;Szent Anna u.*, (Piac u., villamos) + Piac u. + Miklos u.;7706
+259;Szent Anna u.;341
+260;Szepes ;120
+261;Szepes, bolt;120
+262;Szechenyi u. + Tisza Istvan u.;1592
+263;Szena ter;634
+264;Szirom u. + Harmat u.;546
+265;Szoboszloi ut;673
+266;Szocialis Otthon;1449
+267;Szotyori u. + Bartok Bela ut;630
+268;Szovati elagazas;60
+269;Szuret u.;543
+270;Tabor bejaro ut;295
+271;Tegez u.;650
+272;Templom u.;383
+273;Tessedik Samuel u.;150
+274;Teglas u.;690
+275;Teglaskerti iskola;690
+276;Thokoly u. + Abonyi u.;540
+277;Tiborc u.;543
+278;Torocko u.;630
+279;Tocoskert ter;3678
+280;Tocovolgy, vasutallomas;330
+281;Tor u.;320
+282;Tozser u.;1177
+283;Trombitas u.;785
+284;Tuzoltosag;3068
+285;TV-torony;295
+286;Vadasz u.;690
+287;Vadliba u.;1163
+288;Vasutas u.;300
+289;Vag u.;630
+290;Vagohid u.;1636
+291;Vagohid u., feluljaro + Attila ter + Wesselenyi u.;3413
+292;Vamospercsi ut;171
+293;Vamospercsi ut (fordulo);522
+294;Varoshaza* + Kistemplom + Csokonai Szinhaz;11379
+295;Vasary Istvan u.*;7296
+296;Vekeri elagazas;543
+297;Veres Peter u.;1255
+298;Vecsey u. + Hegyi Mihalyne u.;1242
+299;Vilagos u.;630
+300;Vinceller u.;5870
+301;Vizmu;240
+302;Wekerle u.;120
+303;Weszpremy u. + Andahazi (villamos);2982
+304;Wolaffka u.;263
+305;Zsibogo;1636
+306;Zsigmond Ferenc u. + Vay adam u.;855
